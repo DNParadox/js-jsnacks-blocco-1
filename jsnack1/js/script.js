@@ -21,7 +21,6 @@ for (let i = 0; i < myNumbers.length; i++) {
         console.log('dispari',controlloArray)
         document.getElementById('red').innerHTML += controlloArray + " "
     }
-
 }
 
      
